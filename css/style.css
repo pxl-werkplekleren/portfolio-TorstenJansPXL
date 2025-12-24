@@ -2,7 +2,9 @@
 body{
     font-family: 'Segoe UI',system-ui,sans-serif;
 }
-
+.pc\:w{
+    width:75%;
+}
 /* NAV */
 .nav{
     position: fixed;
@@ -25,9 +27,7 @@ body{
 /* TELEPORTS */
 .teleports,
 .nav-teleports{
-    display: flex;
     justify-content: space-between;
-    align-items: center;
     gap: 2rem;
 }
 .nav-teleports a,
@@ -64,10 +64,44 @@ body{
 .teleports a:after{
     background-color: lightgreen;
 }
+/* PROFIELFOTO */
+.profielfoto{
+    margin-top: 3.5rem;
+}
+.profielfoto img{
+    border: 10px solid black;
+    border-radius: 50%;
+    width: 400px;
+    transition: border 0.5s ease;
+}
+.profielfoto img:hover{
+    border-color: lightgreen;
+}
+
+/* INTRODUCTIE */
+.introductie{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+    font-size: 3rem;
+    line-height: 1;
+    font-weight: 800;
+    padding: 4.5rem;
+}
+.introductie span{
+    color: lightgreen;
+}
 
 /* CONTENT */
 #logboek{
     font-size: 5rem;
+}
+.centering{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .top-of-page{
     padding: 5rem;
