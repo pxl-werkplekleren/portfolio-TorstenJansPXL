@@ -1,6 +1,73 @@
-@media screen and (min-width: 1024px) {
+/* BASE */
+body{
+    font-family: 'Segoe UI',system-ui,sans-serif;
 }
-@media screen and (min-width: 640px) {
+
+/* NAV */
+.nav{
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    top: 0;
+    left: 0;
+    width: 100%;
+    transform: translateY(-100%);
+    transition: transform 0.3s ease;
+    background: lightgreen;
+    padding: 20px;
+    z-index: 1000;
+}
+.nav.is-visible{
+    transform: translateY(0);
+}
+
+/* TELEPORTS */
+.teleports,
+.nav-teleports{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+}
+.nav-teleports a,
+.teleports a{
+    position: relative;
+    display: inline-block;
+    padding: 0 10px;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 800;
+    color: black;
+    text-decoration: none;
+    z-index: 1;
+}
+.nav-teleports a:after,
+.teleports a:after{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 6px;
+    width: 100%;
+    height: 6px;
+    transition: height 0.3s ease, bottom 0.3s ease;
+    z-index: -1;
+}
+.nav-teleports a:hover:after,
+.teleports a:hover:after{
+    height: 35px;
+    bottom: 0;
+}
+.nav-teleports a:after{
+    background-color: yellow;
+}
+.teleports a:after{
+    background-color: lightgreen;
+}
+
+/* CONTENT */
+#logboek{
+    font-size: 5rem;
 }
 .top-of-page{
     padding: 5rem;
@@ -9,38 +76,4 @@
     position: relative;
     margin-left: auto;
     margin-right: auto;
-}
-.teleports{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-
-
-.teleports a{
-    position: relative;
-    display: inline-block;
-    padding: 0 10px;
-    text-align: center;
-    font-size: 2rem;
-    font-weight: bold;
-    color: black;
-    text-decoration: none;
-    z-index: 1;
-}
-.teleports a:after{
-    content: "";
-    position: absolute;
-    left: 0;
-    bottom: 6px;
-    width: 100%;
-    height: 6px;
-    background-color: lightgreen;
-    transition: height 0.3s ease, bottom 0.3s ease;
-    z-index: -1;
-}
-.teleports a:hover:after{
-    height: 35px;
-    bottom: 0;
 }
