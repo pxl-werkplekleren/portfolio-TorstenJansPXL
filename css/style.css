@@ -1,0 +1,46 @@
+@media screen and (min-width: 1024px) {
+}
+@media screen and (min-width: 640px) {
+}
+.top-of-page{
+    padding: 5rem;
+}
+.col-centered{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+.teleports{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.teleports a{
+    position: relative;
+    display: inline-block;
+    padding: 0 10px;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    z-index: 1;
+}
+.teleports a:after{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 6px;
+    width: 100%;
+    height: 6px;
+    background-color: lightgreen;
+    transition: height 0.3s ease, bottom 0.3s ease;
+    z-index: -1;
+}
+.teleports a:hover:after{
+    height: 35px;
+    bottom: 0;
+}
