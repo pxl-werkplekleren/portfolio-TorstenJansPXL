@@ -80,15 +80,14 @@ body{
 
 /* INTRODUCTIE */
 .introductie{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
     margin-top: 3rem;
     font-size: 3rem;
     line-height: 1;
     font-weight: 800;
     padding: 4.5rem;
+}
+.introductie p{
+    text-align: center;
 }
 .introductie span{
     color: lightgreen;
