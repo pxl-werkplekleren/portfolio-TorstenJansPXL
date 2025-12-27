@@ -1,4 +1,7 @@
 /* BASE */
+html{
+    scroll-behavior: smooth;
+}
 body{
     font-family: 'Segoe UI',system-ui,sans-serif;
 }
