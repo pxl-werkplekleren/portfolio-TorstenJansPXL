@@ -17,6 +17,11 @@ thead{
 .bg{
     background: #111827;
 }
+h2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 3.75rem;
+}
 /* NAV */
 .nav{
     position: fixed;
@@ -108,9 +113,6 @@ thead{
 /* LOGBOEK */
 #logboek h2{
     color: white;
-    text-align: center;
-    font-weight: bold;
-    font-size: 3.75rem;
 }
 .planning{
     border-collapse: collapse;
@@ -151,7 +153,36 @@ thead{
     width: 30%;
 }
 /* OPDRACHTEN */
-
+#opdrachten{
+    color: white;
+}
+.evaluatie-of-opdracht{
+    border: 2px solid white;
+    border-radius: 20px;
+    padding: 16px;
+    width: 25%;
+    background: #2b3d63;
+    position: relative;
+    top: 0;
+    transition: 0.3s ease-out;
+    margin-bottom: 1rem;
+}
+.evaluatie-of-opdracht p{
+    display: block;
+}
+.evaluatie-of-opdracht p:first-child{
+    font-weight: bold;
+}
+.evaluatie-of-opdracht:hover{
+    box-shadow: 10px 10px black;
+    top: -6px
+}
+.opdrachten-en-evaluaties{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
 /* CONTENT */
 .centering{
     display: flex;
