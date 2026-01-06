@@ -97,6 +97,8 @@ h2 {
 
 /* INTRODUCTIE */
 .introductie{
+    display: flex;
+    flex-direction: column;
     margin-top: 3rem;
     font-size: 3rem;
     line-height: 1;
@@ -105,6 +107,14 @@ h2 {
 }
 .introductie p{
     text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.introductie p:first-child{
+    margin-top: 0;
+}
+.introductie p:last-child{
+    margin-bottom: 0;
 }
 .introductie span{
     color: lightgreen;
