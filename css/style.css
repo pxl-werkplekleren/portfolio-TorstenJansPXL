@@ -17,10 +17,13 @@ thead{
 .bg{
     background: #111827;
 }
-h2 {
+h2,h3 {
     text-align: center;
     font-weight: bold;
     font-size: 3.75rem;
+}
+h3{
+    font-size: 2.75rem;
 }
 /* NAV */
 .nav{
@@ -152,7 +155,15 @@ h2 {
 
 /* Ontwikkeling */
 #ontwikkeling{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     padding: 4rem;
+}
+#ontwikkeling p{
+    text-align: center;
+    font-weight: bold;
+    width: 1000px;
 }
 .rol{
     text-align: left;
