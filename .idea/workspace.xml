@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="820ed5a6-0bba-4a7a-9149-704cc10cec33" name="Changes" comment="aim tabel afgemaakt">
+      <change afterPath="$PROJECT_DIR$/images/x-factor.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;TorstenJansPXL&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/pxl-werkplekleren/portfolio-TorstenJansPXL.git&quot;,
+    &quot;accountId&quot;: &quot;d2166381-58fb-4aba-b704-32e35ad468a4&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="37I9GTng91ahBwK6USukAUZlWu6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tbgam/Documents/portfolio-TorstenJansPXL/images&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tbgam\Documents\portfolio-TorstenJansPXL\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tbgam\Documents\portfolio-TorstenJansPXL\images" />
+      <recent name="C:\Users\tbgam\Documents\portfolio-TorstenJansPXL\js" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-WS-252.28238.10" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="820ed5a6-0bba-4a7a-9149-704cc10cec33" name="Changes" comment="" />
+      <created>1766579622864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766579622864</updated>
+      <workItem from="1766579624169" duration="4877000" />
+      <workItem from="1766584954230" duration="6291000" />
+      <workItem from="1766591425697" duration="290000" />
+      <workItem from="1766827160506" duration="9928000" />
+      <workItem from="1767030765735" duration="2973000" />
+      <workItem from="1767260587365" duration="3857000" />
+      <workItem from="1767300955707" duration="1189000" />
+      <workItem from="1767680226719" duration="54000" />
+      <workItem from="1767719032991" duration="5404000" />
+      <workItem from="1767801247385" duration="1565000" />
+      <workItem from="1767803547450" duration="72000" />
+      <workItem from="1767811960699" duration="1700000" />
+      <workItem from="1767852941671" duration="1007000" />
+      <workItem from="1767892030520" duration="4547000" />
+      <workItem from="1767904341101" duration="139000" />
+      <workItem from="1767904486249" duration="3910000" />
+      <workItem from="1767946462258" duration="780000" />
+      <workItem from="1767968765439" duration="3211000" />
+    </task>
+    <task id="LOCAL-00001" summary="navigatie een voor een stuk afgewerkt">
+      <option name="closed" value="true" />
+      <created>1766584322272</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1766584322272</updated>
+    </task>
+    <task id="LOCAL-00002" summary="navigatie afgemaakt">
+      <option name="closed" value="true" />
+      <created>1766589325680</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1766589325680</updated>
+    </task>
+    <task id="LOCAL-00003" summary="introductie afgemaakt, alleen nog de tekst veranderen">
+      <option name="closed" value="true" />
+      <created>1766591272371</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1766591272371</updated>
+    </task>
+    <task id="LOCAL-00004" summary="introductie tekst een beetje aangepast">
+      <option name="closed" value="true" />
+      <created>1766591711248</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1766591711248</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Logboek volledig afgemaakt">
+      <option name="closed" value="true" />
+      <created>1766829159446</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1766829159446</updated>
+    </task>
+    <task id="LOCAL-00006" summary="navigatie smooth gemaakt">
+      <option name="closed" value="true" />
+      <created>1766829386092</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1766829386092</updated>
+    </task>
+    <task id="LOCAL-00007" summary="tabel van competenties gemaakt">
+      <option name="closed" value="true" />
+      <created>1766866149836</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1766866149836</updated>
+    </task>
+    <task id="LOCAL-00008" summary="achtergrond aangepast">
+      <option name="closed" value="true" />
+      <created>1766867776200</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1766867776200</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Opdrachten en evaluaties toegevoegd">
+      <option name="closed" value="true" />
+      <created>1767301009363</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1767301009363</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Extra opdrachten en evaluaties toegevoegd">
+      <option name="closed" value="true" />
+      <created>1767680265290</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1767680265290</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Alle opdrachten en evaluaties afgewerkt die ik momenteel kan.">
+      <option name="closed" value="true" />
+      <created>1767721701574</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1767721701575</updated>
+    </task>
+    <task id="LOCAL-00012" summary="gedeelte ontwikkeling afgemaakt">
+      <option name="closed" value="true" />
+      <created>1767803333086</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1767803333086</updated>
+    </task>
+    <task id="LOCAL-00013" summary="gedeelte ontwikkeling afgemaakt">
+      <option name="closed" value="true" />
+      <created>1767813666087</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1767813666087</updated>
+    </task>
+    <task id="LOCAL-00014" summary="keuzen voor deze opleiding afgemaakt">
+      <option name="closed" value="true" />
+      <created>1767853168252</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1767853168252</updated>
+    </task>
+    <task id="LOCAL-00015" summary="ontwikkeling afgemaakt">
+      <option name="closed" value="true" />
+      <created>1767908415114</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1767908415114</updated>
+    </task>
+    <task id="LOCAL-00016" summary="aim tabel afgemaakt">
+      <option name="closed" value="true" />
+      <created>1767968802360</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1767968802360</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="navigatie een voor een stuk afgewerkt" />
+    <MESSAGE value="navigatie afgemaakt" />
+    <MESSAGE value="introductie afgemaakt, alleen nog de tekst veranderen" />
+    <MESSAGE value="introductie tekst een beetje aangepast" />
+    <MESSAGE value="Logboek volledig afgemaakt" />
+    <MESSAGE value="navigatie smooth gemaakt" />
+    <MESSAGE value="tabel van competenties gemaakt" />
+    <MESSAGE value="achtergrond aangepast" />
+    <MESSAGE value="Opdrachten en evaluaties toegevoegd" />
+    <MESSAGE value="Extra opdrachten en evaluaties toegevoegd" />
+    <MESSAGE value="Alle opdrachten en evaluaties afgewerkt die ik momenteel kan." />
+    <MESSAGE value="gedeelte ontwikkeling afgemaakt" />
+    <MESSAGE value="keuzen voor deze opleiding afgemaakt" />
+    <MESSAGE value="ontwikkeling afgemaakt" />
+    <MESSAGE value="aim tabel afgemaakt" />
+    <option name="LAST_COMMIT_MESSAGE" value="aim tabel afgemaakt" />
+  </component>
+</project>
