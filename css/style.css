@@ -234,6 +234,23 @@ h3{
     flex-direction: row;
     justify-content: space-evenly;
 }
+/* Reflectie */
+.reflectie-table{
+    border-collapse: collapse;
+    background: white;
+}
+.reflectie-table td{
+    border: 1px solid black;
+    padding: 12px;
+    vertical-align: top;
+}
+.reflectie-table img{
+    width: 70px;
+}
+.reflectie-table span{
+    font-weight: bold;
+}
+
 /* CONTENT */
 .centering{
     display: flex;
